@@ -1,0 +1,46 @@
+*{
+   width: 100%;
+   line-height: 2;
+   list-style: none;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+h1 {
+    color: black;
+    border: 3px solid black;
+
+}
+
+.h2-ejemplo {
+    color: brown;
+    display: inline-block;
+    font-style: italic;
+    
+}
+
+.h3-ejemplo {
+     color: maroon;
+     font-style: italic;
+     display: block;
+
+     }
+.section-images { 
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer_article{
+    background-color: chocolate;
+}
+
+.index-form{
+    color: red;
+    font-family: sans-serif;
+}
