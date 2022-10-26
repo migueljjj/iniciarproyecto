@@ -1,5 +1,14 @@
 h1 {
     color: blue;
-    background-color: green;
+    font size: medium;
+    border: 3px solid;
+    
 }
 
+#section-images {
+     display: flex;
+     justify-content: center;
+     background-color: gold;
+
+}
+di
