@@ -1,6 +1,6 @@
 *{
    width: 100%;
-   line-height: 2;
+   line-height:1;
    list-style: none;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -16,28 +16,31 @@ h1 {
 }
 
 .h2-ejemplo {
-    color: brown;
+    color: black;
     display: inline-block;
     font-style: italic;
     
 }
 
 .h3-ejemplo {
-     color: maroon;
+     color: black;
      font-style: italic;
      display: block;
 
      }
 .section-images { 
-    width: 75%;
-    margin: auto;
-    display: flex;
-    justify-content: center;
+    background-color: rgb(28, 202, 202);
+    background-image: url("images/caracteristicas de cada lenguaje.png" );
+    background-repeat: no-repeat;
+    background-position: right;
     align-items: center;
+    background-size: cover;
 }
 
 .footer_article{
     background-color: chocolate;
+    background-position: center;
+    background-size: auto;
 }
 
 .index-form{
